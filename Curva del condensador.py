@@ -23,3 +23,4 @@ ax.set_xlabel("Tiempo(s)")
 ax.set_ylabel("Voltaje del condensador (Vc)")
 plt.savefig('diagrama-dispersion.png')
 plt.show()
+#ola
